@@ -1,6 +1,6 @@
 {
-    "name": "test_questions_format",
-    "short_name": "test_questions_format",
+    "name": "upm_ueq",
+    "short_name": "upm_ueq",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
